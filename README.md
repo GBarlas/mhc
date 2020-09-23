@@ -1,4 +1,6 @@
-# Title
+# MHC
+
+Code from the paper ["Cross-Domain Authorship Attribution Using Pre-trained Language Models"](https://link.springer.com/chapter/10.1007/978-3-030-49161-1_22).
 
 ## !!! Clone and setup 
 This repository contains sub-modules, create a clone with `--recurse-submodules` option.
@@ -120,3 +122,16 @@ optional arguments:
   --seed SEED
   ```
 
+## Citation
+
+Please use the following bibtex entry:
+```
+@inproceedings{barlas2020cross,
+  title={Cross-Domain Authorship Attribution Using Pre-trained Language Models},
+  author={Barlas, Georgios and Stamatatos, Efstathios},
+  booktitle={IFIP International Conference on Artificial Intelligence Applications and Innovations},
+  pages={255--266},
+  year={2020},
+  organization={Springer}
+}
+```
