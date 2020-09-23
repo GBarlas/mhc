@@ -1,0 +1,9 @@
+[submodule "gpt-2/gpt-2"]
+	path = gpt-2/gpt-2
+	url = https://github.com/GBarlas/gpt-2
+[submodule "ulmfit/fastai"]
+	path = ulmfit/fastai
+	url = https://github.com/GBarlas/fastai
+[submodule "bert/bert"]
+	path = bert/bert
+	url = https://github.com/google-research/bert
